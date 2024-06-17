@@ -1,0 +1,13 @@
+{
+  "name": "my-electron-transcriber",
+  "version": "1.0.0",
+  "description": "An Electron app for audio transcription",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^22.0.0",
+    "keyboardjs": "^2.6.4"
+  }
+}
